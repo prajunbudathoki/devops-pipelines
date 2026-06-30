@@ -1,2 +1,2 @@
-console.log("learning devops")
+console.log("learning devops is fun")
 console.log("learning CI/CD pipeline")
